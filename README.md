@@ -1,7 +1,38 @@
 # gsheet_markdown for Notepad++
 Google Sheet Formulas Markdown in Notepad++
 
-already include all formulas in English & Italian.
+Use Notepad++ for google sheet formulas editing.
 
+Special Colors (markdown) of all formulas in English & Italian, commenting.
+
+# Usage:
 </br>
 <img src="https://github.com/adegard/gsheet_markdown/blob/main/Cattura2.JPG"  align="center">
+
+</br>
+
+# Installation
+
+In Notepad++, go to define language, and import the xml file. 
+Save it.
+
+# Special tips for commenting in formula:
+
+when result is a number, use:
++N("my comment")
+
+when result is a text, use:
+&T(N("my comment"))
+
+Multi-line commenting:
+
++N("
+****
+this
+is 
+multi line
+comment
+***
+")
+
+
