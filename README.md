@@ -2,4 +2,5 @@
 Google Sheet Formulas Markdown in Notepad++
 
 </br>
-<img src="https://raw.githubusercontent.com/adegard/gsheet_markdown/master/Cattura.JPG"  align="center">
+
+<img src="https://github.com/adegard/gsheet_markdown/blob/main/Cattura.JPG"  align="center">
