@@ -12,9 +12,8 @@ Special Colors (markdown) of all formulas in English & Italian, commenting.
 </br>
 
 # Installation
-
-In Notepad++, go to Language/User define langage/Define language..., and import <a href="https://raw.githubusercontent.com/adegard/gsheet_markdown/main/formula_gsheet_notepad%2B%2B_markdown.xml" rel="nofollow">formula_gsheet_notepad%2B%2B_markdown.xml</a> 
- & enjoy!
+Download <a href="https://raw.githubusercontent.com/adegard/gsheet_markdown/main/formula_gsheet_notepad%2B%2B_markdown.xml" rel="nofollow">formula_gsheet_notepad_markdown.xml</a> 
+In Notepad++, go to Language/User define langage/Define language..., import it & enjoy!
 
 # Special tips for commenting in formula:
 
