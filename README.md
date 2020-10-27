@@ -13,7 +13,7 @@ Special Colors (markdown) of all formulas in English & Italian, commenting.
 
 # Installation
 
-In Notepad++, go to Language/User define langage/Define language..., and import the xml file. 
+In Notepad++, go to Language/User define langage/Define language..., and import the xml file (UDL - user defined language). 
 Save it (give it a nem eg. gsheet) & enjoy!
 
 # Special tips for commenting in formula:
