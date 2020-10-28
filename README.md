@@ -12,7 +12,7 @@ Special Colors for all formulas, operators, comments...
 </br>
 
 # Installation
-Download <a href="https://raw.githubusercontent.com/adegard/gsheet_notepad-plus-plus/main/formula_gsheet_notepad%2B%2B_markdown.xml" rel="nofollow">formula_gsheet_notepad_markdown.xml</a> (right click Save as...)</br>
+Download <a href="https://raw.githubusercontent.com/adegard/gsheet_notepad-plus-plus/main/formula_gsheet_notepad.xml" rel="nofollow">formula_gsheet_notepad_markdown.xml</a> (right click Save as...)</br>
 In Notepad++, go to Language/User define langage/Define language..., import it & enjoy!
 
 # Special tips for commenting in formula:
