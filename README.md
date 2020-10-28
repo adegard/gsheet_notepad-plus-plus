@@ -1,4 +1,5 @@
-# Google sheet Markup for Notepad++ (support English & Italian Formulas)
+# Google sheet Markup for Notepad++ 
+*(support English & Italian Formulas)*
 Edit Google Sheet Formulas in Notepad++
 
 Use Notepad++ for google sheet formulas editing and create much complex formulas!
