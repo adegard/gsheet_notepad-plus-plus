@@ -16,9 +16,7 @@ Example (Please note, if you’re based in US or Europe, the syntax is a little 
 		TEXT(CEILING(PTB!E84-L145;1);"#.#");
 		TEXT(CEILING(PTB!F82-L145;1);"#.#"))&T(N("di solito F82 è il delta T"));
 	"TBD")
-	
-	
-	
+
 	&T(N("
 	COMMENTS:
 	L145 è num casuale per refresh.
@@ -31,6 +29,11 @@ Example (Please note, if you’re based in US or Europe, the syntax is a little 
 Inside Notepad++ :
 </br>
 <img src="https://github.com/adegard/gsheet_notepad-plus-plus/blob/main/Cattura3.JPG"  align="center">
+
+</br>
+Copy it as gsheet Formula :
+</br>
+<img src="https://github.com/adegard/gsheet_notepad-plus-plus/blob/main/Cattura4.JPG"  align="center">
 
 </br>
 
