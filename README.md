@@ -1,5 +1,5 @@
 # Google sheet Formula UDL (User Defined Language) for Notepad++ 
-*(support English & Italian Formulas)*
+*gsheet formula sintax highlighting (support English & Italian Formulas)*
 Edit Google Sheet Formulas in Notepad++
 
 Use Notepad++ for google sheet formulas editing and create much complex formulas!
