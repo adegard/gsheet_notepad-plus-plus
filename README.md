@@ -27,9 +27,9 @@ Example (Please note, if you’re based in US or Europe, the syntax is a little 
 
 ```
 
-Also working in Italian...
+Inside Notepad++ :
 </br>
-<img src="https://github.com/adegard/gsheet_notepad-plus-plus/blob/main/Cattura2.JPG"  align="center">
+<img src="https://github.com/adegard/gsheet_notepad-plus-plus/blob/main/Cattura3.JPG"  align="center">
 
 </br>
 
