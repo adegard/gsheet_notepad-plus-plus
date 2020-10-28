@@ -41,13 +41,15 @@ In Notepad++, go to Language/User define langage/Define language..., import it &
 # Special tips for commenting in formula:
 
 when result is a number, use:
+```
 +N("my comment")
-
+```
 when result is a text, use:
+```
 &T(N("my comment"))
-
+```
 Multi-line commenting:
-
+```
 +N("
 ****
 this
@@ -56,5 +58,5 @@ multi line
 comment
 ***
 ")
-
+```
 
