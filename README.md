@@ -31,11 +31,8 @@ Inside Notepad++ :
 <img src="https://github.com/adegard/gsheet_notepad-plus-plus/blob/main/Cattura3.JPG"  align="center">
 
 </br>
-Copy it as gsheet Formula :
-</br>
-<img src="https://github.com/adegard/gsheet_notepad-plus-plus/blob/main/Cattura4.JPG"  align="center">
+Then, just copy it inside gsheet Formula field.
 
-</br>
 
 # Installation
 Download <a href="https://raw.githubusercontent.com/adegard/gsheet_notepad-plus-plus/main/formula_gsheet_notepad.xml" rel="nofollow">formula_gsheet_notepad.xml</a> (right click Save as...)</br>
