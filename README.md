@@ -1,18 +1,18 @@
 # Google sheet Markup for Notepad++ (support English & Italian Formulas)
-Google Sheet Formulas Markdown in Notepad++
+Edit Google Sheet Formulas in Notepad++
 
-Use Notepad++ for google sheet formulas editing and create much complex formulas
+Use Notepad++ for google sheet formulas editing and create much complex formulas!
 
-Special Colors (markdown) for all formulas, operators, comments...
+Special Colors for all formulas, operators, comments...
 
 # Usage:
 </br>
-<img src="https://github.com/adegard/gsheet_markdown/blob/main/Cattura2.JPG"  align="center">
+<img src="https://github.com/adegard/gsheet_notepad-plus-plus/blob/main/Cattura2.JPG"  align="center">
 
 </br>
 
 # Installation
-Download <a href="https://raw.githubusercontent.com/adegard/gsheet_markdown/main/formula_gsheet_notepad%2B%2B_markdown.xml" rel="nofollow">formula_gsheet_notepad_markdown.xml</a> (right click Save as...)</br>
+Download <a href="https://raw.githubusercontent.com/adegard/gsheet_notepad-plus-plus/main/formula_gsheet_notepad%2B%2B_markdown.xml" rel="nofollow">formula_gsheet_notepad_markdown.xml</a> (right click Save as...)</br>
 In Notepad++, go to Language/User define langage/Define language..., import it & enjoy!
 
 # Special tips for commenting in formula:
