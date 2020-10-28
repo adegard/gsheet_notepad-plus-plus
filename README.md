@@ -60,5 +60,5 @@ comment
 ")
 ```
 
-# Forum Thread 
+# Notepad++ Forum Thread 
 https://community.notepad-plus-plus.org/topic/20237/gsheet-formula-sintax-highlighting/
