@@ -1,7 +1,7 @@
-# gsheet_markdown for Notepad++ (support English & Italian Formulas)
+# Google sheet Markup for Notepad++ (support English & Italian Formulas)
 Google Sheet Formulas Markdown in Notepad++
 
-Use Notepad++ for google sheet formulas editing and create much complex programs (in formulas)
+Use Notepad++ for google sheet formulas editing and create much complex formulas
 
 Special Colors (markdown) for all formulas, operators, comments...
 
