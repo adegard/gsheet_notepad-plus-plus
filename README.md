@@ -1,4 +1,4 @@
-# Google sheet UDL (User Defined Language) for Notepad++ 
+# Google sheet Formula UDL (User Defined Language) for Notepad++ 
 *(support English & Italian Formulas)*
 Edit Google Sheet Formulas in Notepad++
 
