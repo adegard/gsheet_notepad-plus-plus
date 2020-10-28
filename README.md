@@ -6,6 +6,8 @@ Use Notepad++ for google sheet formulas editing and create much complex formulas
 Special Colors for all formulas, operators, comments...
 
 # Usage:
+
+Example (Please note, if you’re based in US or Europe, the syntax is a little different (";" instead of ",")
 </br>
 <img src="https://github.com/adegard/gsheet_notepad-plus-plus/blob/main/Cattura2.JPG"  align="center">
 
