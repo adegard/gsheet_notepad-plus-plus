@@ -35,11 +35,15 @@ Then, just copy it inside gsheet Formula field.
 
 
 # Installation
+
 -Download <a href="https://raw.githubusercontent.com/adegard/gsheet_notepad-plus-plus/main/formula_gsheet_notepad.xml" rel="nofollow">formula_gsheet_notepad.xml</a> (right click Save as...)</br>
+
+*Test method:*</br>
+-Go to Language/User define langage/Define language..., import it.</br>
+
+*Official UDL installation*:</br>
 -Import the file by placing the file in your userDefineLangs folder and restarting Notepad++. (It is also possible to use the User Defined Language dialog box to Import your file, but that places the UDL in the combined file, which is more complicated to maintain). More details of what those steps entail can be found in the "Import a UDL" section of the official documentation (https://npp-user-manual.org/docs/user-defined-language-system/#import-a-udl).</br>
 
-Second method:</br>
-Go to Language/User define langage/Define language..., import it.</br>
 
 # Special tips for commenting in formula:
 
