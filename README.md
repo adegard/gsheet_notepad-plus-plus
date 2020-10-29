@@ -37,7 +37,7 @@ Then, just copy it inside gsheet Formula field.
 
 -Download <a href="https://raw.githubusercontent.com/adegard/gsheet_notepad-plus-plus/main/formula_gsheet_notepad.xml" rel="nofollow">formula_gsheet_notepad.xml</a> (right click Save as...)</br>
 
-*Test method:*</br>
+*Import method:*</br>
 -Go to Language/User define langage/Define language..., import it & restart.</br>
 
 *Official UDL installation*:</br>
