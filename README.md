@@ -11,9 +11,9 @@ Example (Please note, if you’re based in US or Europe, the syntax is a little 
 
 ```
 =IFERROR(
-	IF(PTB!D82+ N("recupera temp max acqua. Però capita che sia invertita con pot. frigo")>1000 ;
-		TEXT(CEILING(PTB!E84-L145;1);"#.#");
-		TEXT(CEILING(PTB!F82-L145;1);"#.#"))&T(N("di solito F82 è il delta T"));
+	IF(PTB!D82+ N("recupera temp max acqua. Però capita che sia invertita con pot. frigo")>1000 ,
+		TEXT(CEILING(PTB!E84-L145,1),"#.#"),
+		TEXT(CEILING(PTB!F82-L145,1),"#.#"))&T(N("di solito F82 è il delta T")),
 	"TBD")
 
 	&T(N("
