@@ -44,6 +44,7 @@ Then, just copy it inside gsheet Formula field.
 *Official UDL installation*:</br>
 -Import the file by placing the file in your userDefineLangs folder and restarting Notepad++. (It is also possible to use the User Defined Language dialog box to Import your file, but that places the UDL in the combined file, which is more complicated to maintain). More details of what those steps entail can be found in the "Import a UDL" section of the official documentation (https://npp-user-manual.org/docs/user-defined-language-system/#import-a-udl).</br>
 
+Please report me any issue.
 
 # Special tips for commenting in formula:
 
