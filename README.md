@@ -70,3 +70,7 @@ comment
 
 # Notepad++ Forum Thread 
 https://community.notepad-plus-plus.org/topic/20237/gsheet-formula-sintax-highlighting/
+
+## Additional Resources
+For people interested in updating google sheet formulas with an addon: visit the [Google sheet Formula_Updater](https://github.com/adegard/Formula_Updater/tree/main)
+
